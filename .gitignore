@@ -1,0 +1,27 @@
+tmp
+
+*.class
+.project
+.classpath
+.settings
+target
+test-output
+bin
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+wink.js
+log
+release
+
+.DS_Store
+wavez.iml
+wavez.ipr
+wavez.iws
+
+.idea/
+.idea
+.idea/*
